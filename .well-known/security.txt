@@ -1,0 +1,56 @@
+# Security Contact Information for Alumni TGP Portal
+# Last updated: 2024-01-01
+
+# Security contact email
+Contact: mailto:security@example.com
+
+# Security team PGP key
+Encryption: https://example.com/pgp-key.txt
+
+# Security policy
+Policy: https://example.com/security-policy
+
+# Preferred languages for security reports
+Preferred-Languages: id, en
+
+# Canonical URL of this security.txt file
+Canonical: https://example.com/.well-known/security.txt
+
+# Policy for reporting security vulnerabilities
+# We appreciate responsible disclosure of security vulnerabilities
+# Please provide detailed reports including:
+# - Description of the vulnerability
+# - Steps to reproduce
+# - Potential impact
+# - Suggested fixes (if any)
+
+# Response time
+# We aim to respond to security reports within 24 hours
+# and address critical vulnerabilities within 72 hours
+
+# Bug bounty program
+# Currently we do not offer a bug bounty program
+# However, we acknowledge security researchers in our hall of fame
+
+# Scope
+# In scope:
+# - Main website (example.com)
+# - API endpoints
+# - Mobile applications
+# Out of scope:
+# - Third-party services
+# - Demo instances
+# - Test environments
+
+# No reward
+# We currently do not offer monetary rewards for vulnerability reports
+# However, we publicly acknowledge security researchers who report valid vulnerabilities
+
+# Hall of Fame
+Acknowledgments: https://example.com/security/hall-of-fame
+
+# Hiring
+Hiring: https://example.com/careers/security
+
+# Expiration date of this security.txt file
+Expires: 2025-01-01T00:00:00.000Z
