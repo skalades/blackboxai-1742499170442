@@ -1,0 +1,113 @@
+# Configuration files
+config.php
+.env
+*.config
+
+# Dependencies
+/vendor/
+/node_modules/
+composer.lock
+package-lock.json
+
+# User uploaded content
+/uploads/*
+!/uploads/.gitkeep
+/public/uploads/*
+!/public/uploads/.gitkeep
+
+# Cache and temporary files
+*.cache
+*.tmp
+*.temp
+.sass-cache/
+*.css.map
+*.js.map
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+/logs/*
+!/logs/.gitkeep
+error_log
+access_log
+php_errors.log
+
+# Backup files
+*.bak
+*.backup
+*.[Bb]ak
+*.old
+*.orig
+
+# Build and compiled files
+/dist/
+/build/
+*.compiled.*
+*.min.*
+
+# Testing and coverage
+/coverage/
+/tests/coverage/
+.phpunit.result.cache
+
+# Environment specific files
+.env.*
+!.env.example
+
+# Database files
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+
+# Except schema.sql
+!schema.sql
+
+# Session files
+/sessions/
+sess_*
+
+# Temporary deployment files
+deploy.php
+*.deploy
+
+# System files
+.htpasswd
+.htaccess.bak
+
+# Documentation
+/docs/_build/
+/docs/_static/
+/docs/_templates/
+
+# Certificates and keys
+*.pem
+*.key
+*.crt
+*.cer
+*.der
+*.priv
+*.pub
+
+# Packages and archives
+*.zip
+*.rar
+*.7z
+*.gz
+*.tar
+*.tgz
+
+# Other
+*.pid
+*.lock
+.gitattributes
