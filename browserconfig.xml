@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="assets/images/tiles/ms-icon-70x70.png"/>
+            <square150x150logo src="assets/images/tiles/ms-icon-150x150.png"/>
+            <square310x310logo src="assets/images/tiles/ms-icon-310x310.png"/>
+            <wide310x150logo src="assets/images/tiles/ms-icon-310x150.png"/>
+            <TileColor>#ff6b00</TileColor>
+        </tile>
+        <notification>
+            <polling-uri src="notifications/get"/>
+            <frequency>30</frequency>
+            <cycle>1</cycle>
+        </notification>
+        <badge>
+            <polling-uri src="notifications/badge"/>
+            <frequency>30</frequency>
+        </badge>
+    </msapplication>
+    <application>
+        <name>Alumni TGP</name>
+        <description>Portal Alumni Teknik Geologi Pertambangan SMKN 2 Garut</description>
+        <version>1.0.0</version>
+        <author>Alumni TGP Development Team</author>
+        <website>https://example.com</website>
+        <support>support@example.com</support>
+    </application>
+    <preferences>
+        <preference name="EnableJavaScript" value="true"/>
+        <preference name="EnableLocalStorage" value="true"/>
+        <preference name="EnableServiceWorker" value="true"/>
+        <preference name="EnablePushNotifications" value="true"/>
+        <preference name="EnableOfflineMode" value="true"/>
+    </preferences>
+    <features>
+        <feature name="GPS" required="false"/>
+        <feature name="Camera" required="false"/>
+        <feature name="Microphone" required="false"/>
+        <feature name="PushAPI" required="true"/>
+        <feature name="StorageAPI" required="true"/>
+    </features>
+</browserconfig>
