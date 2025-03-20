@@ -1,0 +1,131 @@
+/* TEAM */
+    Developer: Alumni TGP Development Team
+    Contact: dev@example.com
+    From: Garut, Indonesia
+
+/* THANKS */
+    School: SMKN 2 Garut
+    Department: Teknik Geologi Pertambangan
+    Website: https://smkn2garut.sch.id
+
+/* SITE */
+    Last update: 2024/01/01
+    Language: Indonesian
+    Doctype: HTML5
+    IDE: Visual Studio Code
+    Standards: HTML5, CSS3, PHP 7.4+
+    Components: Tailwind CSS, Font Awesome, Google Fonts
+    Software: PHP, MySQL, Apache
+    
+/* TECHNOLOGY */
+    - PHP 7.4+
+    - MySQL/MariaDB
+    - Apache/Nginx
+    - Tailwind CSS
+    - JavaScript (Vanilla)
+    - Progressive Web App (PWA)
+    - Service Workers
+    - IndexedDB
+    - WebSockets
+    - Local Storage
+    - Session Storage
+    - Cache API
+    - Push Notifications
+
+/* TOOLS */
+    Design:
+        - Figma
+        - Adobe Photoshop
+        - Adobe Illustrator
+
+    Development:
+        - Visual Studio Code
+        - Git
+        - GitHub
+        - Docker
+        - Composer
+        - npm
+
+    Testing:
+        - PHPUnit
+        - Browser DevTools
+        - Lighthouse
+        - WebPageTest
+
+    Deployment:
+        - GitHub Actions
+        - Docker
+        - Linux servers
+
+/* ASSETS */
+    Icons: Font Awesome
+    Fonts: Google Fonts (Poppins, Inter)
+    Images: Optimized and compressed
+    
+/* FEATURES */
+    - Responsive Design
+    - Progressive Web App
+    - Offline Support
+    - Real-time Chat
+    - Push Notifications
+    - File Upload
+    - Search Functionality
+    - User Authentication
+    - Admin Dashboard
+    - Data Export
+    - Mobile-First Approach
+
+/* STANDARDS */
+    - HTML5
+    - CSS3
+    - ECMAScript 2015+
+    - WAI-ARIA
+    - Progressive Enhancement
+    - Mobile First
+    - Responsive Design
+    - Cross-Browser Support
+
+/* PERFORMANCE */
+    - Minified Resources
+    - Optimized Images
+    - Browser Caching
+    - Gzip Compression
+    - Lazy Loading
+    - Code Splitting
+    - Resource Preloading
+    - Service Worker Caching
+
+/* SECURITY */
+    - HTTPS
+    - CSP Headers
+    - XSS Protection
+    - CSRF Protection
+    - SQL Injection Prevention
+    - Input Validation
+    - Output Encoding
+    - Secure File Upload
+    - Rate Limiting
+    - Password Hashing
+    - Session Management
+
+/* ACCESSIBILITY */
+    - WCAG 2.1 Compliance
+    - Semantic HTML
+    - ARIA Labels
+    - Keyboard Navigation
+    - Screen Reader Support
+    - Color Contrast
+    - Focus Management
+    - Alt Text
+    - Skip Links
+
+/* ANALYTICS */
+    - User Behavior
+    - Performance Metrics
+    - Error Tracking
+    - Usage Statistics
+    - Feature Adoption
+    - Search Analytics
+    - User Flow Analysis
+
+Made with ❤️ in Garut, Indonesia
